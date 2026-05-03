@@ -72,5 +72,11 @@ I enjoy figuring things out — especially things that seem confusing at first
 
 ---
 
+## 👾 Contribution Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rishika-ss/rishika-ss/output/pacman-contribution-graph.svg" width="700"/>
+</div>
+
 
 
