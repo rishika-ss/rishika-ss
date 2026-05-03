@@ -2,6 +2,8 @@
 🌌 I’m currently working on  
 AI-based projects like an Auto Documentation Bot and exploring new ideas  
 
+<img align="right" width="300" src="https://github.com/user-attachments/assets/96446edb-923c-4d8f-9176-b9208e1411eb" />
+
 🤝 I’m looking to collaborate on  
 Interesting and meaningful tech projects  
 
@@ -70,14 +72,5 @@ I enjoy figuring things out — especially things that seem confusing at first
 
 ---
 
-# 🐍 Contribution Snake:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishika-ss/rishika-ss/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishika-ss/rishika-ss/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rishika-ss/rishika-ss/output/snake.svg" />
-</picture>
 
----
-
-[![](https://komarev.com/ghpvc/?username=rishika-ss&icon=0&color=0)](https://visitcount.itsvg.in)
