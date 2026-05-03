@@ -2,7 +2,7 @@
 🌌 I’m currently working on  
 AI-based projects like an Auto Documentation Bot and exploring new ideas  
 
-<img align="right" width="300" src="https://github.com/user-attachments/assets/96446edb-923c-4d8f-9176-b9208e1411eb" />
+<img align="right" width="320" style="margin-left: 20px;" src="https://github.com/user-attachments/assets/96446edb-923c-4d8f-9176-b9208e1411eb" />
 
 🤝 I’m looking to collaborate on  
 Interesting and meaningful tech projects  
