@@ -65,12 +65,16 @@ I enjoy figuring things out — especially things that seem confusing at first
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rishika-ss&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![](https://streak-stats.demolab.com?user=rishika-ss&theme=dark&hide_border=false&cache_seconds=1800)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-ss&layout=compact&theme=dark&hide_border=false)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api?username=rishika-ss&theme=shadow" width="500" height="230" />
+    </td>
+    <td>
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=rishika-ss&theme=shadow" width="500" height="230" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 👾 Contribution Game
